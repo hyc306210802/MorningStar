@@ -2,19 +2,24 @@
 <project version="4">
   <component name="RemoteRepositoriesConfiguration">
     <remote-repository>
-      <option name="id" value="central" />
-      <option name="name" value="Central Repository" />
-      <option name="url" value="http://central.jaf.cmbchina.cn/artifactory/group-maven" />
-    </remote-repository>
-    <remote-repository>
       <option name="id" value="paas" />
       <option name="name" value="CMB Paas" />
       <option name="url" value="http://central.jaf.cmbchina.cn/artifactory/group-maven" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
       <option name="name" value="Maven Central repository" />
       <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="http://central.jaf.cmbchina.cn/artifactory/group-maven" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="jboss.community" />

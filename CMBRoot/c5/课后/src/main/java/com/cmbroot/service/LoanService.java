@@ -141,7 +141,7 @@ public class LoanService {
         }
     }
 
-    private void dataProcess(String fileName) throws IOException {
+    public void dataProcess(String fileName) throws IOException {
         FileInputStream fis = null;
         BufferedReader reader;
         try {

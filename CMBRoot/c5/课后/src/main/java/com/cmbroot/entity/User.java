@@ -17,28 +17,35 @@ public class User {
     /***
      * 身高
      */
-    private Float Height;
+    private Float height;
 
     /***
      * 体重
      */
-    private Float Weight;
+    private Float weight;
 
+    public User() {
+        setWeight(weight);
+        setHeight(height);
+        setAge(age);
+        setRetiredYear(retiredYear);
+        setGender(gender);
+    }
 
     public Float getHeight() {
-        return Height;
+        return height;
     }
 
     public Float getWeight() {
-        return Weight;
+        return weight;
     }
 
     public void setHeight(Float height) {
-        Height = height;
+        this.height = height;
     }
 
     public void setWeight(Float weight) {
-        Weight = weight;
+        this.weight = weight;
     }
 
     public Integer getRetiredYear() {
