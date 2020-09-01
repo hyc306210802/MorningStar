@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b997d9b5-4781-42d2-9d37-ba5bb4b43db3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cmbchina/venusplan/address/dao/MenAddressDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cmbchina/venusplan/address/dao/MenAddressDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cmbchina/venusplan/address/domain/MenAddressCreateDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cmbchina/venusplan/address/domain/MenAddressCreateDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cmbchina/venusplan/address/service/MenAddressService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cmbchina/venusplan/address/service/MenAddressService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cmbchina/venusplan/wallet/Wallet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cmbchina/venusplan/wallet/Wallet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cmbchina/venusplan/wallet/exception/WalletException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cmbchina/venusplan/wallet/exception/WalletException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string-utils-test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../string-utils-test/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1gqxXpDPWQgAaWJkfKrlUGbkNuv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="com.cmbchina.venusplan.wallet.Wallet" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.cmbchina.venusplan.address.service" />
+      <recent name="com.cmbchina.venusplan.wallet" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\80296464\Desktop\task\Java\Class_8_Java_Test\王宇壮\课堂\junit-demo\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="com.cmbchina.venusplan.wallet.Wallet" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\80296464\Desktop\task\Java\Class_8_Java_Test\王宇壮\课堂\junit-demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MenAddressServiceImplTest">
+    <configuration name="All in junit-demo" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="junit-demo" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenAddressServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cmbchina.venusplan.address.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cmbchina.venusplan.address.service" />
+      <option name="MAIN_CLASS_NAME" value="com.cmbchina.venusplan.address.service.MenAddressServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WalletTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cmbchina.venusplan.wallet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cmbchina.venusplan.wallet" />
+      <option name="MAIN_CLASS_NAME" value="com.cmbchina.venusplan.wallet.WalletTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WalletTest.should_get_max_paper_money" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cmbchina.venusplan.wallet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cmbchina.venusplan.wallet" />
+      <option name="MAIN_CLASS_NAME" value="com.cmbchina.venusplan.wallet.WalletTest" />
+      <option name="METHOD_NAME" value="should_get_max_paper_money" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WalletTest.should_throw_exception_when_paper_moneys_is_null" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cmbchina.venusplan.wallet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cmbchina.venusplan.wallet" />
+      <option name="MAIN_CLASS_NAME" value="com.cmbchina.venusplan.wallet.WalletTest" />
+      <option name="METHOD_NAME" value="should_throw_exception_when_paper_moneys_is_null" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WalletTest.should_throw_exeption_when_paper_money_is_empy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cmbchina.venusplan.wallet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cmbchina.venusplan.wallet" />
+      <option name="MAIN_CLASS_NAME" value="com.cmbchina.venusplan.wallet.WalletTest" />
+      <option name="METHOD_NAME" value="should_throw_exeption_when_paper_money_is_empy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="JUnit" factoryName="JUnit">
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MenAddressServiceImplTest" />
+        <item itemvalue="JUnit.WalletTest.should_get_max_paper_money" />
+        <item itemvalue="JUnit.WalletTest" />
+        <item itemvalue="JUnit.WalletTest.should_throw_exeption_when_paper_money_is_empy" />
+        <item itemvalue="JUnit.WalletTest.should_throw_exception_when_paper_moneys_is_null" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b997d9b5-4781-42d2-9d37-ba5bb4b43db3" name="Default Changelist" comment="" />
+      <created>1598855965654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598855965654</updated>
+      <workItem from="1598855968141" duration="8407000" />
+      <workItem from="1598947468353" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="541" y="99" key="#All_in_junit-demo" timestamp="1598857044265">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="541" y="99" key="#All_in_junit-demo/0.0.1920.1040@0.0.1920.1040" timestamp="1598857044265" />
+    <state x="541" y="99" key="#All_in_junit-demo_(1)" timestamp="1598857207922">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="541" y="99" key="#All_in_junit-demo_(1)/0.0.1920.1040@0.0.1920.1040" timestamp="1598857207922" />
+    <state x="713" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598858346437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="713" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1598858346437" />
+    <state x="690" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1598858003567">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598858003567" />
+    <state x="736" y="382" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1598858244044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="382" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1598858244044" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1598947479648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598947479648" />
+    <state width="1877" height="236" key="GridCell.Tab.0.bottom" timestamp="1598866393833">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="236" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598866393833" />
+    <state width="1877" height="236" key="GridCell.Tab.0.center" timestamp="1598866393832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="236" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598866393832" />
+    <state width="1877" height="236" key="GridCell.Tab.0.left" timestamp="1598866393832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="236" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598866393832" />
+    <state width="1877" height="236" key="GridCell.Tab.0.right" timestamp="1598866393832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="236" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598866393832" />
+    <state width="1877" height="236" key="GridCell.Tab.1.bottom" timestamp="1598866393833">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="236" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598866393833" />
+    <state width="1877" height="236" key="GridCell.Tab.1.center" timestamp="1598866393833">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="236" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598866393833" />
+    <state width="1877" height="236" key="GridCell.Tab.1.left" timestamp="1598866393833">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="236" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598866393833" />
+    <state width="1877" height="236" key="GridCell.Tab.1.right" timestamp="1598866393833">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="236" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598866393833" />
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog" timestamp="1598856653448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598856653448" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1598866359494">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598866359494" />
+    <state x="754" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598857584550">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="754" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598857584550" />
+    <state x="715" y="323" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1598861279929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="323" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598861279929" />
+  </component>
+</project>
