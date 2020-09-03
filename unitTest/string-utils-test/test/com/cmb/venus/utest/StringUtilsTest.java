@@ -13,7 +13,7 @@ public class StringUtilsTest {
         Assert.assertEquals(stringUtils.isEmpty(str), true);
 
     }//1
-
+//2
     @Test
     public void should_is_empty_when_str_is_blank() {
         String str = "";
