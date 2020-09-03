@@ -34,7 +34,7 @@ public class StringUtilsTest {
         StringUtils stringUtils = new StringUtils(str);
         Assert.assertEquals(stringUtils.isBlank(str),true);
     }
-
+//test
     @Test
     public void should_is_blank_when_str_is_empty() {
         String str = "";
