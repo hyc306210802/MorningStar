@@ -27,7 +27,7 @@ public class StringUtilsTest {
         StringUtils stringUtils = new StringUtils(str);
         Assert.assertEquals(stringUtils.isEmpty(str), false);
     }
-
+//test
     @Test
     public void should_is_blank_when_str_is_null() {
         String str = null;
